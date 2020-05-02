@@ -1,5 +1,5 @@
 {
-  "name": "wordnet-magic",
+  "name": "wordnet-magic-jtc",
   "version": "0.3.1",
   "description": "tools for working with Princeton's lexical database WordNet",
   "main": "./lib/index.js",
@@ -27,7 +27,7 @@
   "dependencies": {
     "bluebird": "3.x.x",
     "mysql": "^2.0.0",
-    "sqlite3": "^4.0.2",
+    "sqlite3": "^4.2.0",
     "underscore": "^1.6.0",
     "validate.io-array": "^1.0.6"
   },
