@@ -1,5 +1,5 @@
 {
-  "name": "wordnet-magic-jtc",
+  "name": "ms-wordnet-magic",
   "version": "0.3.1",
   "description": "tools for working with Princeton's lexical database WordNet",
   "main": "./lib/index.js",
