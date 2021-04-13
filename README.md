@@ -1,3 +1,5 @@
+https://www.npmjs.com/package/ms-wordnet-magic
+
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
